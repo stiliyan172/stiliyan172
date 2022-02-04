@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @stiliyan172
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python fundamentals
-- 💞️ I’m looking to collaborate on Python and other projects
+- 🌱 I graduated Python basic and Python fundamentals
+-     I’m currently learning Python Advanced and Django with Python OOP to follow in 2 months 
+- 💞️ I’m looking to collaborate on Python projects. 
+- I am interested in back-end coding as well as AI and Mashine learning
 - 📫 How to reach me stiliyan_stanchev@abv.bg
 
 <!---
