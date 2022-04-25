@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stiliyan172
 - 👀 I’m interested in Python
-- 🌱 I graduated Python basic, Python fundamentals, Python Advanced and Python OOP (Object Oriented programming)
--     I will start my next learning with Django and JavaScript Advanced soon in order to b extand my knowledge 
+- 🌱 I graduated Python basics, Python fundamentals, Python Advanced and Python OOP (Object Oriented programming)
+-     I will start my next learning with Django and JavaScript Advanced soon in order to extand my knowledge 
 - 💞️ I’m looking to collaborate on Python projects. 
 - I am interested in back-end coding as well as AI and Mashine learning
 - 📫 How to reach me: stiliyan_stanchev@abv.bg 
