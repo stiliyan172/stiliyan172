@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stiliyan172 email stiliyan_stanchev@abv.bg
+- 👋 Hi, I’m @stiliyan172
 - 👀 I’m interested in Python
 - 🌱 I graduated Python basics, Python fundamentals, Python Advanced and Python OOP (Object Oriented programming)
 -     I will start my next learning with Django and JavaScript Advanced soon in order to extand my knowledge 
